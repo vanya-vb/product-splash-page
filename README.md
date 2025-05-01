@@ -5,4 +5,4 @@ Product Splash Page is a responsive, static landing page designed to promote a s
 - HTML
 - CSS
 
-### 🎓An project from my education at Scrimba platform
+### 🎓A project from my education at Scrimba platform
